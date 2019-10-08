@@ -1,7 +1,97 @@
 fileFormatVersion: 2
 guid: f63c0feddd9aea44bbb481bc712a6116
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3244622203517571467
+    second: Diamond_0
+  - first:
+      213: 3922489011588170803
+    second: Diamond_1
+  - first:
+      213: 8351116046471538622
+    second: Diamond_2
+  - first:
+      213: -4233741276012522752
+    second: Diamond_3
+  - first:
+      213: 8337317655635055903
+    second: Diamond_4
+  - first:
+      213: 3302915123959067063
+    second: Diamond_5
+  - first:
+      213: 6847232173263006836
+    second: Diamond_6
+  - first:
+      213: -1804110550252892320
+    second: Diamond_7
+  - first:
+      213: -3537768094795116466
+    second: Diamond_8
+  - first:
+      213: 898696744676446769
+    second: Diamond_9
+  - first:
+      213: -1241150000404854655
+    second: Diamond_10
+  - first:
+      213: 4851713165338844202
+    second: Diamond_11
+  - first:
+      213: -3715455079105827393
+    second: Diamond_12
+  - first:
+      213: -8124254279831718604
+    second: Diamond_13
+  - first:
+      213: 4274920402061865074
+    second: Diamond_14
+  - first:
+      213: 6586713176210915657
+    second: Diamond_15
+  - first:
+      213: 2067628425195827594
+    second: Diamond_16
+  - first:
+      213: -4284566725727535036
+    second: Diamond_17
+  - first:
+      213: -4414133271122878435
+    second: Diamond_18
+  - first:
+      213: 4373951854432365976
+    second: Diamond_19
+  - first:
+      213: -6535362491269770838
+    second: Diamond_20
+  - first:
+      213: 5488938761102453117
+    second: Diamond_21
+  - first:
+      213: 5944812779041062433
+    second: Diamond_22
+  - first:
+      213: -5512954777819666440
+    second: Diamond_23
+  - first:
+      213: -5431056520880862549
+    second: Diamond_24
+  - first:
+      213: -7270290436599291263
+    second: Diamond_25
+  - first:
+      213: -5418468074641209203
+    second: Diamond_26
+  - first:
+      213: -877195131414689884
+    second: Diamond_27
+  - first:
+      213: 2275880702504149464
+    second: Diamond_28
+  - first:
+      213: 8053832134125319243
+    second: Diamond_29
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +130,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +159,650 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Diamond_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1792
+        width: 123
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c35691e1b86fc49a05fa3a848d8a61
+      internalID: 3244622203517571467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1792
+        width: 124
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bfc02ff86eba04aae0786da0a1e656
+      internalID: 3922489011588170803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1664
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eb81f1d6eea1349b05bd930d331543
+      internalID: 8351116046471538622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1664
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5257c26b204bbcd47a801be2ddb88cee
+      internalID: -4233741276012522752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1536
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befd4046aaf99874b8970b407bca51c8
+      internalID: 8337317655635055903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1536
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c6c98b5d18ad4e9e7eb288ab31ee7
+      internalID: 3302915123959067063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1408
+        width: 123
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1fda793aa2e3c418f2b4ceeb7aaf17
+      internalID: 6847232173263006836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1408
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be233794bfd9bf74ebee5b49e44e2f6a
+      internalID: -1804110550252892320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1284
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206f86e1abc4f6a4c83368718021d395
+      internalID: -3537768094795116466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1285
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c339b74ea6cb146895abe8685b84a6
+      internalID: 898696744676446769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1156
+        width: 123
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c22f3d6a601a341bf19e3805ec6afc
+      internalID: -1241150000404854655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1158
+        width: 124
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4dbcc24eb17e540951a6b4383c4d87
+      internalID: 4851713165338844202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1030
+        width: 124
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9701a7df4fae44a91c49201f96de2b
+      internalID: -3715455079105827393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1030
+        width: 124
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf9e1873325e5478eec95934782354
+      internalID: -8124254279831718604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 902
+        width: 125
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ef2d05d88a06419eae1fe463c2b8d
+      internalID: 4274920402061865074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 898
+        width: 125
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee6b204af554c74fa6c74dfbb4dd251
+      internalID: 6586713176210915657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 769
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f92e98740657e84daae2d82b0380fb1
+      internalID: 2067628425195827594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 769
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c156ec1ca57e2304aab4c56a3ed16d5a
+      internalID: -4284566725727535036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 641
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38b7a47438af64ba534ca31fb4f4cc
+      internalID: -4414133271122878435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 642
+        width: 126
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5749acb316557ab429fd0c160a9ab44e
+      internalID: 4373951854432365976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 516
+        width: 125
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385997f74d79c8a428e477593c1587cd
+      internalID: -6535362491269770838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 517
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692210f2b8eb1ff4f8a8b0b4811672ba
+      internalID: 5488938761102453117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 392
+        width: 124
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2879d7eedb48a64c83863415c49021a
+      internalID: 5944812779041062433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 389
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c3dde6f7d4874dae4980bdd75ad86
+      internalID: -5512954777819666440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf2ae1daf06efc4b87eed4d25a7126e
+      internalID: -5431056520880862549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 257
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f900f1ca86fe14242a8a75f201f22827
+      internalID: -7270290436599291263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7552c3db62f48894bb9df267cc085b58
+      internalID: -5418468074641209203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b064b493e0899043a34fd423d81d4c7
+      internalID: -877195131414689884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0111eb0ecbe949ad5ff00c321bc4a
+      internalID: 2275880702504149464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 123
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b772e0f54de2b54baae66b517c0c7f6
+      internalID: 8053832134125319243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
